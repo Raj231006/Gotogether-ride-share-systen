@@ -83,7 +83,7 @@ HOW TO RUN
 Clone the repository
 Set up MySQL database and import schema
 Configure database connection in Java project
-Run the main application file
+Run the main application file in gotogetherproject.zip.
 
 FUTURE IMPROVEMENTS
 
